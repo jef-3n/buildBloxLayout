@@ -4,6 +4,9 @@ export * from './components/Workspace';
 export * from './components/PresetManager';
 export * from './components/FrameworkMenu';
 export * from './components/ViewRegistryPanel';
+export * from './components/ToolbarContainer';
+export * from './components/ExpanderControls';
+export * from './components/ViewportControls';
 
 // Layout handlers
 export * from './handlers/resize';
